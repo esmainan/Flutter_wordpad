@@ -7,7 +7,7 @@ class ExercisePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       child: Center(
-        child: Text("Esma"),
+        child: Text("Esmanın yapacağı kısım"),
       ),
     );
   }
